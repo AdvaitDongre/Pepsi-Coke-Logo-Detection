@@ -11,7 +11,7 @@ import io
 logging.basicConfig(level=logging.INFO)
 
 # Model Path
-model_path = r"C:\Users\KAMAL\Desktop\Advait\best.pt"  # Update this path to the location of your model
+model_path = r"best.pt"  # Update this path to the location of your model
 model = YOLO(model_path)  # Load a custom model
 
 threshold = 0.5
