@@ -4,7 +4,7 @@ Custom Made Dataset: https://universe.roboflow.com/advait-dongre/pepsi-cocacola-
 
 Here’s a comprehensive `README.md` file that you can use for your project. This file includes detailed instructions for setting up and running your Streamlit application on both Windows and Linux systems.
 
-```markdown
+
 # Logo Detection in Video and Image
 
 This project is a Streamlit application that detects Pepsi and Coca-Cola logos in videos and images. The application uses the YOLO (You Only Look Once) object detection model to identify and locate the logos, and it outputs the results in both visual and JSON formats.
